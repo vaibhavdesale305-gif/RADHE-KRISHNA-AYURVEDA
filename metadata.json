@@ -1,0 +1,7 @@
+{
+  "name": "Radhe Krishna Ayurveda",
+  "description": "Professional Ayurvedic e-commerce application featuring product listings, secure cart, order management, and a powerful admin panel. Built with a Flipkart-style premium green theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
